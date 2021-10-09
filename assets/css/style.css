@@ -52,3 +52,31 @@ h1 {
 #menu a:hover {
     color: #e7e7e7;
 }
+
+/* Footer */
+
+#footer {
+    width: 100%;
+}
+
+#social-media-links {
+    height: 120px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    margin-bottom: 0px;
+}
+
+#social-media-links > li {
+    display: inline;
+}
+
+#social-media-links i {
+    font-size: 140%;
+    padding: 2.5%;
+    color: #F0EDF6;
+    margin-bottom: 2.5%;
+}
