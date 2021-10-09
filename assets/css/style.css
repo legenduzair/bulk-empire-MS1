@@ -7,19 +7,29 @@
 
 body {
     background-color: #484848;
+    font-family: Raleway, sans-serif;
+    font-weight: 200;
+    color: #F0EDF6;
 }
 
 /* Main heading and Logo */
 
 h1 {
-
+    font-family: Bree Serif, serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #F0EDF6;
 }
 
 #logo {
-
+    float: left;
+    font-size: 290%;
+    margin-left: 35px;
+    margin-top: 15px;
 }
 
 #menu {
     
 
 }
+
