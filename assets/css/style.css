@@ -26,10 +26,29 @@ h1 {
     font-size: 290%;
     margin-left: 35px;
     margin-top: 15px;
+    line-height: 75px;
 }
+
+/* Navigation Menu */
 
 #menu {
-    
-
+    font-size: 150%;
+    letter-spacing: 0.5px;
+    line-height: 75px;
 }
 
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 35px;
+    margin-top: 15px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    color: #e7e7e7;
+}
