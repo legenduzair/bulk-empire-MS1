@@ -91,6 +91,12 @@ h1, h2 {
     float: right;
 }
 
+#superman {
+    position: absolute;
+    right: 570px;
+    top: 200px;
+}
+
 
 
 /* Footer */
