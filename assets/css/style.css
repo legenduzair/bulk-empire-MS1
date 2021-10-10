@@ -50,7 +50,7 @@ h1, h2 {
 }
 
 #menu a:hover {
-    color: #e7e7e7;
+    color: #f4511e;
 }
 
 /* About Us */
@@ -113,6 +113,10 @@ h1, h2 {
     margin-top: 5%;
   }
 
+  .button:hover {
+      color: black;
+  }
+
 /* Footer */
 
 #footer {
@@ -139,4 +143,8 @@ h1, h2 {
     padding: 2.5%;
     color: #F0EDF6;
     margin-bottom: 2.5%;
+}
+
+#social-media-links i:hover {
+    color: #f4511e;
 }
