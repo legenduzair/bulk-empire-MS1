@@ -7,14 +7,14 @@
 
 body {
     background-color: #484848;
-    font-family: Raleway, sans-serif;
+    font-family: Roboto, sans serif;
     font-weight: 200;
     color: #F0EDF6;
 }
 
 /* Main heading and Logo */
 
-h1 {
+h1, h2 {
     font-family: Bree Serif, serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -52,6 +52,29 @@ h1 {
 #menu a:hover {
     color: #e7e7e7;
 }
+
+/* About Us */
+
+#club-intro {
+    height: 680px;
+    background-color: lawngreen;
+    position: absolute;
+    bottom: 120px;
+    margin-left: 35px;
+}
+
+#club-intro p {
+    margin-top: 15px;
+    padding-top: 15px;
+    text-align: justify;
+    width: 33%;
+    margin-left: 15px;
+    padding-left: 15px;
+    line-height: 30px;
+}
+
+
+
 
 /* Footer */
 
