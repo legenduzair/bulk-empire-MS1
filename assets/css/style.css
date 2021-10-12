@@ -141,6 +141,28 @@ h1, h2 {
     margin-left: 70px;
   }
 
+  #right-workouts {
+    float: right;
+    position: absolute;
+    height: 50%;
+    width: 25%;
+    bottom: 230px;
+    right: 230px;
+}
+
+.right-workout-heading {
+    float: left;
+    font-size: 120%;
+}
+
+.routine-two {
+    text-align: justify;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    margin-right: 70px;
+  }
+
 /* Footer */
 
 #footer {
