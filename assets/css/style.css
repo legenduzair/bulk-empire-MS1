@@ -137,7 +137,8 @@ h1, h2 {
     text-align: justify;
     line-height: 30px;
     margin-top: 30px;
-    margin-bottom: 150px;
+    margin-bottom: 60px;
+    margin-left: 34px;
   }
 
   #right-workouts {
@@ -158,7 +159,8 @@ h1, h2 {
     text-align: justify;
     line-height: 30px;
     margin-top: 30px;
-    margin-bottom: 150px;
+    margin-bottom: 60px;
+    margin-left: 34px;
   }
 
   #bottom-workout {
