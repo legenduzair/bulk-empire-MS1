@@ -134,12 +134,11 @@ h1, h2 {
   }
 
   .routine {
-    text-align: justify;
     line-height: 30px;
     margin-top: 30px;
     margin-bottom: 60px;
     margin-left: 34px;
-    font-size: 92%;
+    font-size: 90%;
   }
 
   #right-workouts {
@@ -157,12 +156,11 @@ h1, h2 {
 }
 
 .routine-two {
-    text-align: justify;
     line-height: 30px;
     margin-top: 30px;
     margin-bottom: 60px;
     margin-left: 34px;
-    font-size: 92%;
+    font-size: 90%;
   }
 
   #bottom-workout {
@@ -170,18 +168,19 @@ h1, h2 {
       height: 25%;
       position: absolute;
       bottom: 120px;
-      text-align: center;
       left: 720px;
   }
 
   #bottom-workout-heading {
-      font-size: 120%;
+    font-size: 120%;
   }
 
   #routine-three {
-    text-align: justify;
     line-height: 30px;
-    font-size: 92%;
+    margin-top: 5px;
+    margin-bottom: 60px;
+    margin-left: 34px;
+    font-size: 90%;
   }
 
 /* Footer */
