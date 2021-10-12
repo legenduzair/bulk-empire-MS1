@@ -55,14 +55,14 @@ h1, h2 {
 
 /* About Us */
 
-#club-intro {
+.club-intro {
     height: 680px;
     position: absolute;
     bottom: 120px;
     margin-left: 35px;
 }
 
-#club-intro p {
+.club-intro p {
     margin-top: 15px;
     padding-top: 15px;
     text-align: justify;
@@ -73,7 +73,7 @@ h1, h2 {
     font-size: 120%;
 }
 
-#about-us {
+.about-us {
     font-size: 175%;
 }
 
@@ -115,6 +115,30 @@ h1, h2 {
 
   .button:hover {
       color: black;
+  }
+
+  /* Workouts Page */
+
+  #left-workouts {
+      float: left;
+      position: absolute;
+      height: 50%;
+      width: 25%;
+      bottom: 230px;
+      left: 230px;
+  }
+
+  .left-workout-heading {
+      float: right;
+      font-size: 120%;
+  }
+
+  .routine {
+    text-align: justify;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    margin-left: 70px;
   }
 
 /* Footer */
