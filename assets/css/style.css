@@ -58,13 +58,13 @@ h1, h2 {
 .club-intro {
     height: 680px;
     position: absolute;
-    bottom: 120px;
+    bottom: 140px;
     margin-left: 35px;
 }
 
 .club-intro p {
-    margin-top: 15px;
-    padding-top: 15px;
+    margin-top: 30px;
+    padding-top: 30px;
     text-align: justify;
     width: 33%;
     margin-left: 15px;
