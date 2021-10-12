@@ -119,6 +119,10 @@ h1, h2 {
 
   /* Workouts Page */
 
+  #weekly-workouts li {
+      list-style-type: lower-roman;
+  }
+
   #left-workouts {
       float: left;
       position: absolute;
