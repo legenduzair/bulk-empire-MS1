@@ -193,6 +193,35 @@ h1, h2 {
       top: 180px;
   }
 
+/* Memberships Page */
+
+#membership-one {
+    height: 40%;
+    width: 15%;
+    background-color: #f4511e;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+
+#membership-two {
+    height: 40%;
+    width: 15%;
+    background-color: #f4511e;
+    position: absolute;
+    top: 250px;
+    left: 816px;
+}
+
+#membership-three {
+    height: 40%;
+    width: 15%;
+    background-color: #f4511e;
+    position: absolute;
+    top: 250px;
+    right: 250px;
+}
+
 
 /* Footer */
 
