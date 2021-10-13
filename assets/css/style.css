@@ -203,6 +203,7 @@ h1, h2 {
     top: 250px;
     left: 250px;
     border-radius: 25px;
+    padding: 20px;
 }
 
 #membership-two {
@@ -213,6 +214,7 @@ h1, h2 {
     top: 250px;
     left: 816px;
     border-radius: 25px;
+    padding: 20px;
 }
 
 #membership-three {
@@ -223,6 +225,7 @@ h1, h2 {
     top: 250px;
     right: 250px;
     border-radius: 25px;
+    padding: 20px;
 }
 
 
