@@ -228,6 +228,13 @@ h1, h2 {
     padding: 20px;
 }
 
+h3 {
+    text-align: center;
+    color: #F0EDF6;
+    font-family: Bree Serif, sans-serif;
+    letter-spacing: 3px;
+}
+
 
 /* Footer */
 
