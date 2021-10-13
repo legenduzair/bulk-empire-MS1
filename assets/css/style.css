@@ -235,6 +235,10 @@ h3 {
     letter-spacing: 3px;
 }
 
+#membership-one, #membership-two, #membership-three li {
+    letter-spacing: 2px;
+    line-height: 25px;
+}
 
 /* Footer */
 
