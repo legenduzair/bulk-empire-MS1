@@ -228,11 +228,23 @@ h1, h2 {
     padding: 20px;
 }
 
-h3 {
+h3, h4 {
     text-align: center;
     color: #F0EDF6;
     font-family: Bree Serif, sans-serif;
     letter-spacing: 3px;
+}
+
+#membership-one h4 {
+    padding-top: 100px;
+}
+
+#membership-two h4 {
+    padding-top: 25px;
+}
+
+#membership-three h4 {
+    padding-top: 10px;
 }
 
 #membership-plans li {
