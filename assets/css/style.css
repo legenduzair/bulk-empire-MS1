@@ -235,9 +235,12 @@ h3 {
     letter-spacing: 3px;
 }
 
-#membership-one, #membership-two, #membership-three li {
+#membership-plans li {
     letter-spacing: 2px;
     line-height: 25px;
+    font-size: 95%;
+    list-style-type: square;
+    text-align: justify;
 }
 
 /* Footer */
