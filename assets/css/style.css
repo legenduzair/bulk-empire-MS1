@@ -314,9 +314,18 @@ h3, h4 {
     margin-bottom: 10px;
 }
 
-.input-radio {
-    margin-right: 5px;
+.input-radio-one {
+    margin-right: 2px; 
+}
+
+.input-radio-two {
+    margin-right: 2px;
     margin-left: 5px; 
+}
+
+.input-radio-three {
+    margin-right: 2px; 
+    margin-left: 5px;
 }
 
 #input-enter {
