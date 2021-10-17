@@ -29,6 +29,10 @@ h1, h2 {
     line-height: 75px;
 }
 
+#logo:hover {
+    color: #f4511e;
+}
+
 /* Navigation Menu */
 
 #menu {
