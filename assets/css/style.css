@@ -302,6 +302,7 @@ h3, h4 {
     border-radius: 5px;
     color: #F0EDF6;
     width: 100%;
+    resize: none;
 }
 
 ::placeholder {
