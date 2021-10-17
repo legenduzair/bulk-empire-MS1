@@ -313,6 +313,11 @@ h3, h4 {
     margin-bottom: 10px;
 }
 
+.input-radio {
+    margin-right: 5px;
+    margin-left: 5px; 
+}
+
 /* Footer */
 
 #footer {
