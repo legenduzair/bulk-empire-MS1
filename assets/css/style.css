@@ -280,6 +280,16 @@ h3, h4 {
     margin-bottom: 15px;
 }
 
+.input-field {
+    background: transparent;
+    width: 100%;
+    height: 25px;
+    margin: 10px 0 10px 0;
+    border: 1px solid #F0EDF6;
+    border-radius: 5px;
+    color: #F0EDF6;;
+}
+
 /* Footer */
 
 #footer {
