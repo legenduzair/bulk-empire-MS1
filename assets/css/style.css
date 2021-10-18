@@ -182,7 +182,7 @@ h1, h2 {
 #membership-one {
     height: 40%;
     width: 15%;
-    background-color: #f4511e;
+    background-color: rgba(211, 84, 0, 0.7);
     position: absolute;
     top: 230px;
     left: 250px;
@@ -193,7 +193,7 @@ h1, h2 {
 #membership-two {
     height: 40%;
     width: 15%;
-    background-color: #f4511e;
+    background-color: rgba(211, 84, 0, 0.7);
     position: absolute;
     top: 230px;
     left: 816px;
@@ -204,7 +204,7 @@ h1, h2 {
 #membership-three {
     height: 40%;
     width: 15%;
-    background-color: #f4511e;
+    background-color: rgba(211, 84, 0, 0.7);
     position: absolute;
     top: 230px;
     right: 250px;
