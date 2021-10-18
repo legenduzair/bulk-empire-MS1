@@ -171,26 +171,6 @@ h1, h2 {
     font-size: 90%;
   }
 
-  #bottom-workout {
-      width: 25%;
-      height: 25%;
-      position: absolute;
-      bottom: 70px;
-      left: 810px;
-  }
-
-  #bottom-workout-heading {
-    font-size: 120%;
-  }
-
-  #routine-three {
-    line-height: 30px;
-    margin-top: 5px;
-    margin-bottom: 60px;
-    margin-left: 34px;
-    font-size: 90%;
-  }
-
   #squat-image {
       position: absolute;
       left: 810px;
