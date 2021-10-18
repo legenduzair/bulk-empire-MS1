@@ -246,6 +246,12 @@ h3, h4 {
     left: 600px;    
 }
 
+#equipment-message-one {
+    position: absolute;
+    bottom: 180px;
+    left: 400px;
+}
+
 /* Sign Up Page */
 
 #signup-section {
