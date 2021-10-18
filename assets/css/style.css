@@ -240,7 +240,7 @@ h3, h4 {
     padding-top: 10px;
 }
 
-#equipment-message h1 {
+.equipment-message h1 {
     position: absolute;
     bottom: 180px;
     left: 600px;    
