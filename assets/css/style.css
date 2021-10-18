@@ -212,6 +212,18 @@ h1, h2 {
     padding: 20px;
 }
 
+#membership-one li {
+    margin-bottom: 15px;
+}
+
+#membership-two li {
+    margin-bottom: 15px;
+}
+
+#membership-three li {
+    margin-bottom: 15px;
+}
+
 h3, h4 {
     text-align: center;
     color: #F0EDF6;
@@ -228,7 +240,7 @@ h3, h4 {
 }
 
 #membership-three h4 {
-    padding-top: 10px;
+    padding-top: 25px;
 }
 
 #membership-plans li {
