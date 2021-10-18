@@ -132,8 +132,8 @@ h1, h2 {
       position: absolute;
       height: 50%;
       width: 25%;
-      bottom: 245px;
-      left: 290px;
+      bottom: 200px;
+      left: 235px;
   }
 
   .left-workout-heading {
@@ -154,8 +154,8 @@ h1, h2 {
     position: absolute;
     height: 50%;
     width: 25%;
-    bottom: 245px;
-    right: 180px;
+    bottom: 200px;
+    right: 120px;
 }
 
 .right-workout-heading {
