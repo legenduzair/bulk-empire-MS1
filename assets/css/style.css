@@ -386,3 +386,14 @@ h3, h4 {
 #social-media-links i:hover {
     color: rgba(211, 84, 0, 0.7);
 }
+
+/* Form Submit Page */
+
+#form-submit {
+    background: url('../images/man-woman-rope.jpg') no-repeat center / cover;
+    height: 937px;
+    text-align: center;
+    font-size: 220%;
+}
+
+
