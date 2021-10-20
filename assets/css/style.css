@@ -102,7 +102,7 @@ nav {
 
 /* Weightlifter Image */
 
-#image-section {
+#main-section {
     height: 680px;
     width: 100%;
     position: absolute;
@@ -417,44 +417,6 @@ h3, h4 {
 
 /* Media Queries */
 
-/* For Large Laptops From 1440px downwards */
-
-@media screen and (max-width: 1440px) {
-    #logo {
-        margin-left: 50px;
-        margin-top: 25px;
-    }
-
-    .about-us {
-        margin-left: 25px;
-    }
-
-    .club-intro {
-        position: absolute;
-        top: 140px;
-        font-size: 80%;
-    }
-
-    .button {
-        font-size: 95%;
-    }
-
-    #lifter-image {
-       position: absolute;
-       top: 40px;
-       right: 0%;
-       width: 430px;
-    }
-
-    #superman {
-        width: 370px;
-        position: absolute;
-        right: 27%;
-        top: 150px;
-    }
-}
-
-/* For Small Laptops From 1024px downwards */
 
 
 
