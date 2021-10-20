@@ -398,9 +398,48 @@ h3, h4 {
 
 /* Media Queries */
 
+/* For Laptops From 1440px downwards */
+
+@media screen and (max-width: 1440px) {
+    #logo {
+        margin-left: 50px;
+        margin-top: 25px;
+    }
+
+    .about-us {
+        margin-left: 25px;
+    }
+
+    .club-intro {
+        position: absolute;
+        top: 140px;
+        font-size: 80%;
+    }
+
+    .button {
+        font-size: 95%;
+    }
+
+    #lifter-image {
+       position: absolute;
+       top: 37px;
+       right: 0%;
+       width: 430px;
+    }
+
+    #superman {
+        width: 370px;
+        position: absolute;
+        right: 27%;
+        top: 150px;
+    }
+}
+
+
 /* For small screen sizes (Mobile) From 425px downwards */
 
 @media screen and (max-width: 425px) {
+
     #logo {
         float: left;
         font-size: 130%;
@@ -451,6 +490,5 @@ h3, h4 {
     .about-us {
         margin-bottom: 10px;
     }
-
 
 }
