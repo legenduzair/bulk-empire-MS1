@@ -14,6 +14,18 @@ body {
 
 /* Main heading and Logo */
 
+header {
+    height: 100px;
+    width: 100%;
+}
+
+header > a {
+    height: 100%;
+    width: 45%;
+    display: inline-block;
+    margin: auto 0;
+}
+
 h1, h2 {
     font-family: Bree Serif, sans-serif;
     text-transform: uppercase;
@@ -22,11 +34,11 @@ h1, h2 {
 }
 
 #logo {
-    float: left;
-    font-size: 290%;
+    /* float: left; */
+    font-size: 2.9rem;
     margin-left: 35px;
-    margin-top: 15px;
-    line-height: 75px;
+    /* margin-top: 15px;
+    line-height: 75px; */
 }
 
 #logo:hover {
@@ -35,17 +47,24 @@ h1, h2 {
 
 /* Navigation Menu */
 
+nav {
+    height: 100%;
+    width: 45%;
+    display: inline-block;
+}
+
 #menu {
     font-size: 150%;
     letter-spacing: 0.5px;
-    line-height: 75px;
+    margin-top: 75px;
+    /* line-height: 75px; */
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 35px;
-    margin-top: 15px;
+    /* margin-top: 15px; */
 }
 
 #menu a {
@@ -422,7 +441,7 @@ h3, h4 {
 
     #lifter-image {
        position: absolute;
-       top: 37px;
+       top: 40px;
        right: 0%;
        width: 430px;
     }
