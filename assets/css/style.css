@@ -24,6 +24,7 @@ header > a {
     width: 45%;
     display: inline-block;
     margin: auto 0;
+    text-decoration: none;
 }
 
 h1, h2 {
