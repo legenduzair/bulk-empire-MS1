@@ -164,6 +164,13 @@ nav {
 
   /* Workouts Page */
 
+  #workout-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
   #weekly-workouts {
       height: 780px;
   }
@@ -187,6 +194,12 @@ nav {
       left: 260px; */
       margin-left: 100px;
       margin-top: 100px;
+      display: flex;
+      flex-direction: column;
+  }
+
+  #left-workouts div {
+    flex-basis: 250px;
   }
 
   .left-workout-heading {
@@ -211,6 +224,12 @@ nav {
     right: 215px; */
     margin-right: 100px;
     margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+#right-workouts div {
+    flex-basis: 250px;
 }
 
 .right-workout-heading {
@@ -233,16 +252,11 @@ nav {
       margin-top: 50px;
   }
 
-  #pressup-image img {
-    width: 750px;
-    padding-left: 130px;
-  }
-
   #equipment-message-one {
     /* position: absolute;
     bottom: 180px;
     left: 400px; */
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 /* Memberships Page */
