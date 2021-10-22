@@ -261,48 +261,31 @@ nav {
 
 /* Memberships Page */
 
-#membership-one {
-    height: 40%;
-    width: 15%;
+#membership-section {
+    height: 860px;
+}
+
+#main-memberships {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.membership-plans {
+    height: 400px;
+    width: 300px;
     background-color: rgba(211, 84, 0, 0.7);
-    position: absolute;
+    /* position: absolute;
     top: 230px;
-    left: 250px;
+    left: 250px; */
     border-radius: 25px;
     padding: 20px;
+    margin: 30px;
 }
 
-#membership-two {
-    height: 40%;
-    width: 15%;
-    background-color: rgba(211, 84, 0, 0.7);
-    position: absolute;
-    top: 230px;
-    left: 816px;
-    border-radius: 25px;
-    padding: 20px;
-}
 
-#membership-three {
-    height: 40%;
-    width: 15%;
-    background-color: rgba(211, 84, 0, 0.7);
-    position: absolute;
-    top: 230px;
-    right: 250px;
-    border-radius: 25px;
-    padding: 20px;
-}
-
-#membership-one li {
-    margin-bottom: 15px;
-}
-
-#membership-two li {
-    margin-bottom: 15px;
-}
-
-#membership-three li {
+.membership-plans li {
     margin-bottom: 15px;
 }
 
@@ -313,19 +296,11 @@ h3, h4 {
     letter-spacing: 3px;
 }
 
-#membership-one h4 {
-    padding-top: 100px;
-}
-
-#membership-two h4 {
+.membership-plans h4 {
     padding-top: 25px;
 }
 
-#membership-three h4 {
-    padding-top: 25px;
-}
-
-#membership-plans li {
+.membership-plans li {
     letter-spacing: 2px;
     line-height: 25px;
     font-size: 90%;
@@ -334,14 +309,16 @@ h3, h4 {
     padding-top: 10px;
 }
 
-#equipment-message {
-    position: absolute;
+#membership-message {
+    /* position: absolute;
     bottom: 180px;
-    left: 600px;    
+    left: 600px; */
+    margin-top: 100px;
+    text-align: center;
 }
 
-#equipment-message p {
-    text-align: center;
+#membership-message p {
+    /* text-align: center; */
     margin-top: 10px;
     font-size: 93%;
 }
