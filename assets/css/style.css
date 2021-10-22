@@ -417,18 +417,14 @@ h3, h4 {
 
 /* Footer */
 
-#footer {
-    height: 100px;
-}
-
 #social-media-links {
     height: 120px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.5);
-    position: fixed;
+    /* position: fixed;
     bottom: 0px;
     right: 0px;
-    left: 0px;
+    left: 0px; */
 }
 
 #social-media-links > li {
