@@ -266,6 +266,7 @@ nav {
     bottom: 180px;
     left: 400px; */
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #center-image {
@@ -555,6 +556,13 @@ h3, h4 {
     }
 }
 
+@media screen and (max-width: 750px) {
+
+    #workout-form {
+        max-width: 450px;
+    } 
+}
+
 @media screen and (max-width: 715px) {
 
     #left-workouts, #right-workouts {
@@ -562,6 +570,20 @@ h3, h4 {
     }
 
 
+}
+
+@media screen and (max-width: 700px) {
+
+    #workout-form {
+        max-width: 400px;
+    } 
+}
+
+@media screen and (max-width: 600px) {
+
+    #workout-form {
+        max-width: 300px;
+    } 
 }
 
 @media screen and (max-width: 475px) {
@@ -582,6 +604,27 @@ h3, h4 {
         margin-right: 0;
     }
 
+}
+
+@media screen and (max-width: 460px) {
+
+    #workout-form {
+        max-width: 250px;
+    } 
+}
+
+@media screen and (max-width: 420px) {
+
+    #workout-form {
+        max-width: 200px;
+    } 
+}
+
+@media screen and (max-width: 370px) {
+
+    #workout-form {
+        max-width: 150px;
+    } 
 }
 
 @media screen and (max-width: 340px) {
