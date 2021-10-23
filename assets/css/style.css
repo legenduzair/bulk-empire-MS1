@@ -170,11 +170,12 @@ nav {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    padding-top: 100px;
   }
 
-  #weekly-workouts {
+  /* #weekly-workouts {
       height: 780px;
-  }
+  } */
 
   #club-intro-two {
     height: 38px;
@@ -187,16 +188,19 @@ nav {
   }
 
   #left-workouts {
-      float: left;
+      /* float: left;
       /* position: absolute;
       height: 50%;
       width: 20%;
       bottom: 200px;
-      left: 260px; */
+      left: 260px;
       margin-left: 100px;
-      margin-top: 100px;
+      margin-top: 100px; */
       display: flex;
       flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
   }
 
   #left-workouts div {
@@ -217,16 +221,19 @@ nav {
   }
 
   #right-workouts {
-    float: right;
-    /* position: absolute;
+    /* float: right;
+    position: absolute;
     height: 50%;
     width: 20%;
     bottom: 200px;
-    right: 215px; */
+    right: 215px;
     margin-right: 100px;
-    margin-top: 100px;
+    margin-top: 100px; */
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
 }
 
 #right-workouts div {
@@ -249,8 +256,9 @@ nav {
   #pressup-image {
       /* position: absolute;
       left: 640px;
-      top: 250px; */
-      margin-top: 50px;
+      top: 250px;
+      margin-top: 50px; */
+      width: 100%;
   }
 
   #equipment-message-one {
@@ -258,6 +266,10 @@ nav {
     bottom: 180px;
     left: 400px; */
     margin-top: 50px;
+}
+
+#center-image {
+    width: 38%;
 }
 
 /* Memberships Page */
@@ -452,6 +464,39 @@ h3, h4 {
 }
 
 /* Media Queries */
+
+@media screen and (max-width: 1200px) {
+
+    #left-workouts, #right-workouts {
+        flex-direction: row;
+        justify-content: space-around;
+        width: 100%;
+    }
+
+    #left-workouts div, #right-workouts div {
+        flex-basis: auto;
+    }
+
+    #right-workouts {
+        padding-top: 50px;
+    }
+    
+    #workout-main {
+        flex-direction: column;
+        padding: 100px 25px 0;
+    }
+
+    #center-image {
+        width: 100%;
+    }
+
+    #equipment-message-one {
+        margin-bottom: 50px;
+        margin-top: 0;
+    }
+
+
+}
 
 @media screen and (max-width: 945px) {
 
