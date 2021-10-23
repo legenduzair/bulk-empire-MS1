@@ -344,11 +344,11 @@ h3, h4 {
 /* Sign Up Page */
 
 #signup-section {
-    height: 727px;
+    height: 859px;
     width: 100%;
     background: url('../images/personal-training.jpg') no-repeat center / cover;
     position: relative;
-
+    margin-top: 10px;
     overflow: hidden;
 }
 
@@ -541,6 +541,10 @@ h3, h4 {
 
     #club-intro-two {
         margin-bottom: 50px;
+    }
+
+    #signup-section {
+        margin-top: 120px;
     }
     
 }
