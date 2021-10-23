@@ -550,7 +550,15 @@ h3, h4 {
         padding: 60px 0;
     }
 }
-    
+
+@media screen and (max-width: 715px) {
+
+    #left-workouts, #right-workouts {
+        flex-direction: column;
+    }
+
+
+}
 
 @media screen and (max-width: 475px) {
 
