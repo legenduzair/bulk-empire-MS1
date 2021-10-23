@@ -262,9 +262,9 @@ nav {
 
 /* Memberships Page */
 
-#membership-section {
+/* #membership-section {
     height: 860px;
-}
+} */
 
 #main-memberships {
     width: 100%;
@@ -318,7 +318,7 @@ h3, h4 {
     /* position: absolute;
     bottom: 180px;
     left: 600px; */
-    margin-top: 100px;
+    padding: 100px 0;
     text-align: center;
 }
 
@@ -493,8 +493,19 @@ h3, h4 {
         font-size: 120%;
         padding-top: 50px;
     }
+
+    #club-intro-two {
+        margin-bottom: 50px;
+    }
     
 }
+@media screen and (max-width: 799px) {
+    
+    #membership-message {
+        padding: 60px 0;
+    }
+}
+    
 
 @media screen and (max-width: 475px) {
 
@@ -513,5 +524,14 @@ h3, h4 {
         float: none;
         margin-right: 0;
     }
+
+}
+
+@media screen and (max-width: 340px) {
+
+    #club-intro-two {
+        margin-left: 20px;
+    }
+
 
 }
