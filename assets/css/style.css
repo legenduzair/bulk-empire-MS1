@@ -632,7 +632,12 @@ h3, h4 {
 
     #workout-form {
         max-width: 450px;
-    } 
+    }
+
+    #club-intro-two h2 {
+        padding-right: 60px;
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 715px) {
@@ -732,4 +737,20 @@ h3, h4 {
         margin-left: 20px;
     }
 
+}
+
+@media screen and (max-width: 375px) {
+
+    #club-intro-two h2 {padding-top: 0px;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+
+    #club-intro-two h2 {
+        padding-right: 31px;
+        text-align: center;
+    }
+    
 }
