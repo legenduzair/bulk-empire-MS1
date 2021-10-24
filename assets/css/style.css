@@ -709,13 +709,17 @@ h3, h4 {
     #workout-form {
         max-width: 300px;
     } 
+
+    #menu {
+        gap: 10px;
+    }
 }
 
 @media screen and (max-width: 500px) {
 
     #menu {
         font-size: 91%;
-        padding-left: 18px;
+        /* padding-left: 18px; */
     }
     
 }
@@ -730,7 +734,7 @@ h3, h4 {
         gap: 10px;
         margin-top: 10px;
         /* margin-left: 100px; */
-        padding-left: 0;
+        padding-left: 0px;
     }
 
     #menu li {
