@@ -485,6 +485,14 @@ h3, h4 {
 
 /* Media Queries */
 
+@media screen and (max-width: 1236px) {
+
+    #menu {
+        font-size: 126%;
+    }
+    
+}
+
 @media screen and (max-width: 1200px) {
 
     #left-workouts, #right-workouts {
@@ -517,6 +525,15 @@ h3, h4 {
 
 
 }
+
+@media screen and (max-width: 1094px) {
+
+    #menu {
+        font-size: 101%;
+    }
+    
+}
+
 
 @media screen and (max-width: 1080px) {
 
@@ -694,6 +711,15 @@ h3, h4 {
     } 
 }
 
+@media screen and (max-width: 500px) {
+
+    #menu {
+        font-size: 91%;
+        padding-left: 18px;
+    }
+    
+}
+
 @media screen and (max-width: 475px) {
 
     #menu {
@@ -702,8 +728,9 @@ h3, h4 {
         width: 100%;
         justify-content: center;
         gap: 10px;
-        margin-top: 0;
+        margin-top: 10px;
         /* margin-left: 100px; */
+        padding-left: 0;
     }
 
     #menu li {
