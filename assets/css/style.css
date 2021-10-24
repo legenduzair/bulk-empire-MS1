@@ -112,7 +112,7 @@ nav {
 }
 
 #main-section {
-    /* height: 864px; */
+    min-height: 864px;
     width: 100%;
     /* position: absolute;
      top: 100px; 
