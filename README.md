@@ -35,3 +35,6 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 
 ![Nav Bar](/documentation/screenshots/bulk-empire-navbar.jpg)
 
+- Footer
+
+  - 
