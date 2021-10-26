@@ -20,3 +20,5 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 - [Home & Workout pages](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-tablet-home-workouts.jpg)
 - [Memberships & Sign Up pages](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-tablet-memberships-signup.jpg)
 
+### Mobile View
+- [All pages](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-mobile.jpg)
