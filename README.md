@@ -4,3 +4,16 @@ Bulk Empire is an online weightlifting club that offers many services such as wo
 
 ![Responsive Screenshot Markup](/documentation/screenshots/ss-responsive-home.jpg)
 
+[The live website can be viewed here on GitHub pages.](https://legenduzair.github.io/bulk-empire-MS1/)
+
+## UX
+## Wireframes
+Before developing the website, I used Balsamiq Wireframes to design the potential layout and structure of content for each html page for desktop, tablet and mobile view. The wireframes designed are listed below.
+
+### Desktop view
+- [Home Page]
+- [Workouts Page]
+- [Memberships Page]
+- [Sign Up! Page]
+
+
