@@ -32,3 +32,6 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
   - Across the entire website, the company logo is placed on the right and the navigation links are placed on the left. These links include Home, Workouts, Memberships and Sign Up. All of these titles link to their corresponding pages for easy navigation. The company logo acts as a shortcut back to the home page.
   - The navigation bar is designed to be fully responsive across all smaller viewport sizes. For mobile/smaller sized screens, the format of the bar is adjusted to a column display where the navigation links are aligned vertically below the company logo which is centered at the top of the page. For tablets/medium sized screens, the links are horizontally aligned and are placed below the company logo which is centered at the top of the page.
   - The company logo and navigation links can be hovered over to display an orange color using the rgba color model. This specific color is used for various content on the website.  
+
+![Nav Bar](/documentation/screenshots/bulk-empire-navbar.jpg)
+
