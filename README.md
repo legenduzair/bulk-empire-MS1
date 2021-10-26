@@ -11,9 +11,9 @@ Bulk Empire is an online weightlifting club that offers many services such as wo
 Before developing the website, I used Balsamiq Wireframes to design the potential layout and structure of content for each html page for desktop, tablet and mobile view. The wireframes designed are listed below.
 
 ### Desktop view
-- [Home Page]
-- [Workouts Page]
-- [Memberships Page]
-- [Sign Up! Page]
+- [Home Page](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-home.jpg)
+- [Workouts Page](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-workouts.jpg)
+- [Memberships Page](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-memberships.jpg)
+- [Sign Up Page](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-signup.jpg)
 
 
