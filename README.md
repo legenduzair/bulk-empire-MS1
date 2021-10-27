@@ -37,4 +37,6 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 
 - Footer
 
-  - 
+  - The footer section is located at the bottom of each web page and supplies useful contact information. It includes the relevant social media links in the format of their respective logos,that Bulk Empire is present on. 
+  - These links are helpful to keep the user engaged in learning and reading more information about Bulk Empire and is also beneficial to the company by increasing social media following and recognition globally.
+
