@@ -39,4 +39,11 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 
   - The footer section is located at the bottom of each web page and supplies useful contact information. It includes the relevant social media links in the format of their respective logos,that Bulk Empire is present on. 
   - These links are helpful to keep the user engaged in learning and reading more information about Bulk Empire and is also beneficial to the company by increasing social media following and recognition globally.
+  - The background color of the footer is a darker variant of grey that offers visual contrast to the background color of the main section which is a lighter grey. Like the links in the header, the footer links can also be hovered over to display the same orange color.
 
+![Footer](/documentation/screenshots/bulk-empire-footer.jpg)
+
+### Home Page
+- About Bulk Empire Section
+
+  - 
