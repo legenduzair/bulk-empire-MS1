@@ -59,3 +59,11 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
   - The details of each daily workout is structured around a center image of an individual exercising at home. This structure allows the user to follow the workout without any confusion and the image is present to motivate the user to exercise at home.
 
 ![Workouts Page](/documentation/screenshots/bulk-empire-workouts.jpg)
+
+### Memberships Page
+- Membership Plans Section
+
+  - The memberships page provides details of all Bulk Empire membership plans from silver to platinum and all the benefits that are included in each one. The price is also indicated below each plan.
+  - Below the membership plans, the various gym equipment provided with each plan is also listed. This is beneficial to the user and the organisation as they do not have to purchase seperate equipment from another company/retailer.
+
+![Memberships Page](/documentation/screenshots/bulk-empire-memberships.jpg)
