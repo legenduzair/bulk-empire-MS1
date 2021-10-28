@@ -46,4 +46,16 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 ### Home Page
 - About Bulk Empire Section
 
-  - 
+  - The home page provides background information about Bulk Empire and a summary of the services that are offered to the user. This section is the first point of visual contact for the user so it is important that the benefits and values of joining Bulk Empire is included. The about us section will also allow the user to understand the reasoning behind the initiation of Bulk Empire due to the COVID-19 pandemic.
+  - Below the background information of the company, a button is also displayed which takes the user to the sign up form to enter a giveaway provided by Bulk Empire.
+  - The home page also includes two images of individuals who are weightlifting as a visual indicator to motivate the user to initiate a change in their lifestyle.
+
+![Home Page](/documentation/screenshots/bulk-empire-home.jpg)
+
+### Workouts Page
+- Home Workouts Section
+
+  - The workouts page provides the user one of many weekly workout routines they can engage in using gym equipment provided by Bulk Empire.
+  - The details of each daily workout is structured around a center image of an individual exercising at home. This structure allows the user to follow the workout without any confusion and the image is present to motivate the user to exercise at home.
+
+![Workouts Page](/documentation/screenshots/bulk-empire-workouts.jpg)
