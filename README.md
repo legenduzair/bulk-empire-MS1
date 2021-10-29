@@ -79,4 +79,7 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 ### Hidden Pages
 - Sign Up Confirmation Page
 
+  - One page that does not appear on navigation bar is the sign up confirmation page that users can access once they have entered the giveaway by completing the form.
+  - A thank you for participating message is displayed on the screen. This indicates confirmation to the user that they have successfully entered the giveaway, whilst also providing information on future contests and the quality of rewards the user can potentially acquire. 
+  
   
