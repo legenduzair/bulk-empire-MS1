@@ -67,3 +67,8 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
   - Below the membership plans, the various gym equipment provided with each plan is also listed. This is beneficial to the user and the organisation as they do not have to purchase seperate equipment from another company/retailer.
 
 ![Memberships Page](/documentation/screenshots/bulk-empire-memberships.jpg)
+
+### Sign Up Page
+- Giveaway Form
+
+  - The giveaway/sign up form allows the user to enter a competition held by Bulk Empire to win a free personal training session. The user is required to fill in each input field using their contact details such as first name, last name and email address. As well as this, the user will also be able to specify why they should win the giveaway and choose their favourite workout i they have one. 
