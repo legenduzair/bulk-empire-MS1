@@ -84,5 +84,13 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
   - A background image of a client and a trainee exercising together is present to display to the user the morals and goals of Bulk Empire. This is a common design element used across the website.
 
 ![Sign Up Confirmation Page](/documentation/screenshots/bulk-empire-formsubmit.jpg) 
-  
+
+## Future Improvements
+- Media Elements
+  - The current version of the website includes limited media elements such as images. It would be ideal to have more media content such as workout tutorials in the format of videos or audio players. 
+
+- Workout Challenges and Classes Schedule
+  - It would be motivating and beneficial to users wanting to join Bulk Empire to include a workout challenges and classes schedule. This could provide information on the diversity of workout classes taught by personal trainers and challenges existing Bulk Empire members have engaged in for successful personal achievements and goals. 
+
+## Testing 
   
