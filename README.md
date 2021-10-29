@@ -72,3 +72,6 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 - Giveaway Form
 
   - The giveaway/sign up form allows the user to enter a competition held by Bulk Empire to win a free personal training session. The user is required to fill in each input field using their contact details such as first name, last name and email address. As well as this, the user will also be able to specify why they should win the giveaway and choose their favourite workout i they have one. 
+  - A background image of two individuals engaged in a personal training session is displayed behind the sign up form. This is a visual indicator to the user that Bulk Empire is determined to help its clients with reaching their fitness goals and achievements. 
+
+![Sign Up Page](/documentation/screenshots/bulk-empire-signup.jpg)
