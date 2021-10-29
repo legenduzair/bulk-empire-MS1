@@ -75,3 +75,8 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
   - A background image of two individuals engaged in a personal training session is displayed behind the sign up form. This is a visual indicator to the user that Bulk Empire is determined to help its clients with reaching their fitness goals and achievements. 
 
 ![Sign Up Page](/documentation/screenshots/bulk-empire-signup.jpg)
+
+### Hidden Pages
+- Sign Up Confirmation Page
+
+  
