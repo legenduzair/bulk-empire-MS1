@@ -80,6 +80,9 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 - Sign Up Confirmation Page
 
   - One page that does not appear on navigation bar is the sign up confirmation page that users can access once they have entered the giveaway by completing the form.
-  - A thank you for participating message is displayed on the screen. This indicates confirmation to the user that they have successfully entered the giveaway, whilst also providing information on future contests and the quality of rewards the user can potentially acquire. 
+  - A thank you for participating message is displayed on the screen. This indicates confirmation to the user that they have successfully entered the giveaway, whilst also providing information on future contests and the quality of rewards the user can potentially acquire.
+  - A background image of a client and a trainee exercising together is present to display to the user the morals and goals of Bulk Empire. This is a common design element used across the website.
+
+![Sign Up Confirmation Page](/documentation/screenshots/bulk-empire-formsubmit.jpg) 
   
   
