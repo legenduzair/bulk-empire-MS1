@@ -144,10 +144,23 @@ The website was also tested on devices using other browsers:
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follow:
-  - In the GitHub repository, navigate to the settings tab
-  - On the left, select pages from the settings options
-  - From the source section drop-down menu, select Branch and then Main
+  - In the GitHub repository, navigate to the settings tab.
+  - On the left, select pages from the settings options.
+  - From the source section drop-down menu, select Branch and then Main.
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - [Bulk Empire](https://legenduzair.github.io/bulk-empire-MS1/)
+
+## Credits
+
+### Content 
+- The materials found on [w3Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/) were used when inputting and editing HTML and CSS to my code to help me overcome any minor bugs and issues.
+- The text for all of the pages on the site was created by myself. 
+- The two materials used to learn and implement CSS flexbox and grid were the [Flexbox Website](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and a series of YouTube tutorials created by [Kevin Powell](https://www.youtube.com/watch?v=hwbqquXww-U).
+- The icons used on the workouts and sign up pages were taken from [Font Awesome](https://fontawesome.com/).
+- The fonts used in the implementation of the website were taken from [Google Fonts](https://fonts.google.com/).
+- HTML and CSS were the languages used to write the code used to design the website.
+
+### Media
+- All images used on the website were taken from [Pexels](https://www.pexels.com/) and [Tiny PNG](https://tinypng.com/) was used to compress and optimise the images.
 
