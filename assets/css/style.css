@@ -136,7 +136,7 @@ nav {
 #button {
     background-color: rgba(211, 84, 0, 0.7);
     border: none;
-    color: white;
+    color: #F0EDF6;
     padding: 16px 32px;
     text-align: center;
     font-size: 16px;
@@ -146,7 +146,7 @@ nav {
   }
 
   #button:hover {
-      color: black;
+      color: #040404;
   }
 
   /* Workouts Page */
@@ -363,7 +363,7 @@ h3, h4 {
 #input-enter {
     background-color: rgba(211, 84, 0, 0.7);
     border: none;
-    color: white;
+    color: #F0EDF6;
     padding: 16px 32px;
     text-align: center;
     font-size: 16px;
@@ -372,7 +372,7 @@ h3, h4 {
 }
 
 #input-enter:hover {
-    color: black;
+    color: #040404;
 }
 
 /* Footer */

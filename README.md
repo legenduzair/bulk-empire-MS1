@@ -23,6 +23,9 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 ### Mobile View
 - [All pages](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-mobile.jpg)
 
+## Color Scheme
+When choosing the color scheme for the website, I wanted to make sure it gave an stylish appearance that made the foreground content stand out from the background content. For this reason, I picked shades of orange, grey and white across the whole site using [HTML Color Codes](https://htmlcolorcodes.com/).    
+
 ## Features
 
 ### Regular Features
