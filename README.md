@@ -128,6 +128,17 @@ The website was also tested on devices using other browsers:
      - [Sign Up Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fsignup.html)
      - [Form Submit Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fformsubmit.html%3Ffirst_name%3DUzair%26last_name%3DOomer%26email_address%3Duzairoomer%2540live.com%26giveaway%3Dsaaasas%26favourite_workout%3Dbench-press#l43c16)
   
-  - CSS
+- CSS
    - No errors were displayed when running the CSS code through the offical (Jigsaw) validator.
-     - [CSS Code Check]()
+     - [CSS Code Check](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+- Lighthouse 
+   - For the deployed site, I generated a lighthouse report through Google Chrome's developer tools for both desktop and mobile versions.
+      - Desktop Report:
+
+      ![Desktop Lighthouse Report](/documentation/screenshots/lighthouse-bulk-empire.jpg)
+
+      - Mobile Report: 
+
+      ![Mobile Lighthouse Report](/documentation/screenshots/lighthouse-bulk-empire-mobile.jpg)
+
