@@ -93,4 +93,31 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
   - It would be motivating and beneficial to users wanting to join Bulk Empire to include a workout challenges and classes schedule. This could provide information on the diversity of workout classes taught by personal trainers and challenges existing Bulk Empire members have engaged in for successful personal achievements and goals. 
 
 ## Testing 
+After developing the initial layout of the website for desktop/larger screens, the website went through rigorous testing utilising Google Chrome's developer tools to create a fully responsive website for different screen sizes. The site was continuously tested by applying styling and checking the application of the changes made using a live server window. Every page was organised and structured carefully from header to footer for a variety of displays:
+
+- Desktop Computer: 1920 x 1080p
+- HP EliteBook 840 G4: 1366 x 768p
+- IPad Pro: 1024 x 1366p
+- IPhone 5/SE: 320 x 568p
+
+The website was also tested on devices using other browsers:
+
+- IPhone 11 Pro Max: 414 x 896p
+  - iOS Safari
+- Desktop Computer: 1920 x 1080p
+  - Microsoft Edge
+- IPad Air: 820 x 1180p
+  - Mozilla Firefox
+- Laptop: 1280 x 800p
+  - Mozilla Firefox
+
+### Bugs 
+- Fixed Bugs
+  - When creating the sign up button on the home page, there was a small issue with its interactivity. This was due to the button not being in its own parent element. To fix this, I placed the button inside a parent div element to position it below the company background text. 
+  - After I was designing my first wireframes on Balsamiq, it was uploaded onto GitHub. However, the wireframes were not displaying properly so I had to rename the wireframes and uploaded my second wireframes file.
+    - [First Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes.pdf) 
+    - [Second Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes-1.pdf)
+  - When designing my website to be fully responsive, I had positioned most of my content using absolute positioning which caused many issues of elements overlapping when reducing the screen size. To resolve this, I learned how to utilise flexbox CSS layout to position my content the way I preferred. 
+
+
   
