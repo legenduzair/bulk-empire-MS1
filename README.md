@@ -117,7 +117,7 @@ The website was also tested on devices using other browsers:
   - After I was designing my first wireframes on Balsamiq, it was uploaded onto GitHub. However, the wireframes were not displaying properly so I had to rename the wireframes and uploaded my second wireframes file.
     - [First Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes.pdf) 
     - [Second Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes-1.pdf)
-  - When designing my website to be fully responsive, I had positioned most of my content using absolute positioning which caused many issues of elements overlapping when reducing the screen size. To resolve this, I learned how to utilise flexbox CSS layout to position my content the way I preferred.
+  - When designing my website to be fully responsive, I had positioned most of my content using absolute positioning which caused many issues of elements overlapping when reducing the screen size. To resolve this, I learned to utilise flexbox CSS layout to position my content the way I preferred.
 
 ## Validator Testing 
  - HTML
@@ -126,11 +126,11 @@ The website was also tested on devices using other browsers:
      - [Workouts Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fworkouts.html)
      - [Memberships Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fmemberships.html)
      - [Sign Up Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fsignup.html)
-     - [Form Submit Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fformsubmit.html%3Ffirst_name%3DUzair%26last_name%3DOomer%26email_address%3Duzairoomer%2540live.com%26giveaway%3Dsaaasas%26favourite_workout%3Dbench-press#l43c16)
+     - [Form Submit Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fformsubmit.html)
   
 - CSS
    - No errors were displayed when running the CSS code through the offical (Jigsaw) validator.
-     - [CSS Code Check](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+     - [CSS Code Check](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 - Lighthouse 
    - For the deployed site, I generated a lighthouse report through Google Chrome's developer tools for both desktop and mobile versions.
