@@ -119,7 +119,7 @@ The website was also tested on devices using other browsers:
     - [Second Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes-1.pdf)
   - When designing my website to be fully responsive, I had positioned most of my content using absolute positioning which caused many issues of elements overlapping when reducing the screen size. To resolve this, I learned how to utilise flexbox CSS layout to position my content the way I preferred.
 
- ## Validator Testing 
+## Validator Testing 
  - HTML
    - No errors were displayed when running each code through the NU HTML Checker.
      - [Home Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Findex.html)
@@ -141,4 +141,13 @@ The website was also tested on devices using other browsers:
       - Mobile Report: 
 
       ![Mobile Lighthouse Report](/documentation/screenshots/lighthouse-bulk-empire-mobile.jpg)
+
+## Deployment
+- The site was deployed to GitHub pages. The steps to deploy are as follow:
+  - In the GitHub repository, navigate to the settings tab
+  - On the left, select pages from the settings options
+  - From the source section drop-down menu, select Branch and then Main
+  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - [Bulk Empire](https://legenduzair.github.io/bulk-empire-MS1/)
 
