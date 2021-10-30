@@ -361,6 +361,10 @@ h3, h4 {
     font-size: 93%;
 }
 
+#membership-message h4 {
+    font-size: 150%;
+}
+
 
 /* Sign Up Page */
 
