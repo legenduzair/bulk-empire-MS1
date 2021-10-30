@@ -83,7 +83,7 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
   - A thank you for participating message is displayed on the screen. This indicates confirmation to the user that they have successfully entered the giveaway, whilst also providing information on future contests and the quality of rewards the user can potentially acquire.
   - A background image of a client and a trainee exercising together is present to display to the user the morals and goals of Bulk Empire. This is a common design element used across the website.
 
-![Sign Up Confirmation Page](/documentation/screenshots/bulk-empire-formsubmit.jpg) 
+![Form Submit Page](/documentation/screenshots/bulk-empire-formsubmit.jpg) 
 
 ## Future Improvements
 - Media Elements
@@ -121,10 +121,13 @@ The website was also tested on devices using other browsers:
 
  ## Validator Testing 
  - HTML
-   - No errors were when running each code through the NU HTML Checker.
+   - No errors were displayed when running each code through the NU HTML Checker.
      - [Home Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Findex.html)
      - [Workouts Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fworkouts.html)
      - [Memberships Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fmemberships.html)
      - [Sign Up Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fsignup.html)
-
+     - [Form Submit Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fformsubmit.html%3Ffirst_name%3DUzair%26last_name%3DOomer%26email_address%3Duzairoomer%2540live.com%26giveaway%3Dsaaasas%26favourite_workout%3Dbench-press#l43c16)
   
+  - CSS
+   - No errors were displayed when running the CSS code through the offical (Jigsaw) validator.
+     - [CSS Code Check]()

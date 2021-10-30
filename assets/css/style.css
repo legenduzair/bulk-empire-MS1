@@ -15,7 +15,6 @@ body {
 /* Main heading and Logo */
 
 header {
-    /* height: 100px; */
     width: 100%;
 }
 
@@ -35,11 +34,8 @@ h1, h2 {
 }
 
 #logo {
-    /* float: left; */
     font-size: 2.9rem;
     margin-left: 35px;
-    /* margin-top: 15px;
-    line-height: 75px; */
 }
 
 #logo:hover {
@@ -58,14 +54,12 @@ nav {
     font-size: 150%;
     letter-spacing: 0.5px;
     margin-top: 75px;
-    /* line-height: 75px; */
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 35px;
-    /* margin-top: 15px; */
 }
 
 #menu a {
@@ -80,24 +74,13 @@ nav {
 /* About Us */
 
 #club-intro-one {
-    /* height: 850px;
-    position: absolute;
-     bottom: 140px;
-    margin-left: 50px;
-    margin-top: 100px;
-    width: 33%; */
     width: 460px;
     padding-right: 20px;
     min-width: 460px;
 }
 
 #club-intro-one p {
-    /* margin-top: 50px; */
-    /* padding-top: 30px; */
     text-align: justify;
-    /* width: 33%;
-    margin-left: 15px; 
-    padding-left: 15px; */
     line-height: 30px;
     font-size: 110%;
     padding-top: 20px;
@@ -114,9 +97,6 @@ nav {
 #main-section {
     min-height: 864px;
     width: 100%;
-    /* position: absolute;
-     top: 100px; 
-     right: 0px; */
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -129,10 +109,6 @@ nav {
 /* Weightlifter Image */
 
 #lifter-image {
-    /* float: right; */
-    /* flex-basis: 600px;
-    align-self: flex-end;
-    margin-left: 100px; */
     width: 460px;
     min-width: 460px;
 }
@@ -142,13 +118,6 @@ nav {
 }
 
 #superman {
-    /* position: absolute;
-    right: 280px;
-    top: 100px;
-    float: right; */
-    /* width: 33%;
-    flex-basis: 600px;
-    margin-left: 100px; */
     width: 100%;
     height: 100%;
     flex-shrink: 2;
@@ -174,8 +143,6 @@ nav {
     text-decoration: none;
     display: inline-block;
     border-radius: 25px;
-    /* margin-left: 100px;
-    margin-top: 75px; */
   }
 
   #button:hover {
@@ -193,10 +160,6 @@ nav {
     padding-top: 100px;
   }
 
-  /* #weekly-workouts {
-      height: 780px;
-  } */
-
   #club-intro-two {
     height: 38px;
     margin-left: 50px;
@@ -208,14 +171,6 @@ nav {
   }
 
   #left-workouts {
-      /* float: left;
-      /* position: absolute;
-      height: 50%;
-      width: 20%;
-      bottom: 200px;
-      left: 260px;
-      margin-left: 100px;
-      margin-top: 100px; */
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -241,14 +196,6 @@ nav {
   }
 
   #right-workouts {
-    /* float: right;
-    position: absolute;
-    height: 50%;
-    width: 20%;
-    bottom: 200px;
-    right: 215px;
-    margin-right: 100px;
-    margin-top: 100px; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -274,17 +221,10 @@ nav {
   }
 
   #pressup-image {
-      /* position: absolute;
-      left: 640px;
-      top: 250px;
-      margin-top: 50px; */
       width: 100%;
   }
 
   #equipment-message-one {
-    /* position: absolute;
-    bottom: 180px;
-    left: 400px; */
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -294,10 +234,6 @@ nav {
 }
 
 /* Memberships Page */
-
-/* #membership-section {
-    height: 860px;
-} */
 
 #main-memberships {
     width: 100%;
@@ -310,9 +246,6 @@ nav {
     height: 400px;
     width: 300px;
     background-color: rgba(211, 84, 0, 0.7);
-    /* position: absolute;
-    top: 230px;
-    left: 250px; */
     border-radius: 25px;
     padding: 20px;
     margin: 30px;
@@ -348,15 +281,11 @@ h3, h4 {
 }
 
 #membership-message {
-    /* position: absolute;
-    bottom: 180px;
-    left: 600px; */
     padding: 100px 0;
     text-align: center;
 }
 
 #membership-message p {
-    /* text-align: center; */
     margin-top: 10px;
     font-size: 93%;
 }
@@ -461,10 +390,6 @@ h3, h4 {
     height: 120px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.5);
-    /* position: fixed;
-    bottom: 0px;
-    right: 0px;
-    left: 0px; */
 }
 
 #social-media-links > li {
@@ -642,10 +567,6 @@ h3, h4 {
         margin-top: 0;
     }
 
-    /* #signup-section {
-        margin-top: 120px;
-    }
-     */
 }
 @media screen and (max-width: 799px) {
     
@@ -728,7 +649,6 @@ h3, h4 {
 
     #menu {
         font-size: 91%;
-        /* padding-left: 18px; */
     }
     
 }
@@ -742,7 +662,6 @@ h3, h4 {
         justify-content: center;
         gap: 10px;
         margin-top: 10px;
-        /* margin-left: 100px; */
         padding-left: 0px;
     }
 
