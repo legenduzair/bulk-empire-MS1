@@ -6,7 +6,7 @@ Bulk Empire is an online weightlifting club that offers many services such as wo
 
 [The live website can be viewed here on GitHub pages.](https://legenduzair.github.io/bulk-empire-MS1/)
 
-## UX
+## UX & Planning
 ## Wireframes
 Before developing the website, I used Balsamiq Wireframes to design the potential layout and structure of content for each page for desktop, tablet and mobile view. The wireframes designed are listed below.
 
@@ -24,7 +24,13 @@ Before developing the website, I used Balsamiq Wireframes to design the potentia
 - [All pages](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/screenshots/balsamiq-mobile.jpg)
 
 ## Color Scheme
-When choosing the color scheme for the website, I wanted to make sure it gave an stylish appearance that made the foreground content stand out from the background content. For this reason, I picked shades of orange, grey and white across the whole site using [HTML Color Codes](https://htmlcolorcodes.com/).    
+When choosing the color scheme for the website, I wanted to make sure it gave an stylish appearance that made the foreground content stand out from the background content. For this reason, I picked shades of orange, grey, white and black across the whole site using [HTML Color Codes](https://htmlcolorcodes.com/). Hex values were used when picking black, white and grey shades and the rgba color model was used when picking the shade of orange.
+
+## Typography
+There were two fonts that were used throughout the website:
+ - Roboto
+ - Bree Serif
+Sans-serif is also listed in the CSS file as a backup to the primary fonts used. These choice of fonts were used as they complement each other very well as noted in Google Fonts.
 
 ## Features
 
