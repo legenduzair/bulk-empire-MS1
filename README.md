@@ -124,6 +124,7 @@ The website was also tested on devices using other browsers:
    - No errors were when running each code through the NU HTML Checker.
      - [Home Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Findex.html)
      - [Workouts Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fworkouts.html)
-     - [Memberships Page]()
+     - [Memberships Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fmemberships.html)
+     - [Sign Up Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fsignup.html)
 
   
