@@ -117,7 +117,13 @@ The website was also tested on devices using other browsers:
   - After I was designing my first wireframes on Balsamiq, it was uploaded onto GitHub. However, the wireframes were not displaying properly so I had to rename the wireframes and uploaded my second wireframes file.
     - [First Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes.pdf) 
     - [Second Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes-1.pdf)
-  - When designing my website to be fully responsive, I had positioned most of my content using absolute positioning which caused many issues of elements overlapping when reducing the screen size. To resolve this, I learned how to utilise flexbox CSS layout to position my content the way I preferred. 
+  - When designing my website to be fully responsive, I had positioned most of my content using absolute positioning which caused many issues of elements overlapping when reducing the screen size. To resolve this, I learned how to utilise flexbox CSS layout to position my content the way I preferred.
 
+ ## Validator Testing 
+ - HTML
+   - No errors were when running each code through the NU HTML Checker.
+     - [Home Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Findex.html)
+     - [Workouts Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fworkouts.html)
+     - [Memberships Page]()
 
   
