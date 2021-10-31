@@ -1,6 +1,6 @@
 # Bulk Empire
 ## Introduction
-Bulk Empire is an online weightlifting club that offers many services such as workout advice, routines, tutorials and online personal training sessions to assist people who are motivated and interested to begin lifting weights or exercising to improve their lifestyle. Due to the nature of the global COVID-19 pandemic, the site is targetted at an audience who prefer to exercise remotely at home with the gym equipment provided to reduce the risk of being infected and to feel safer.  
+Bulk Empire is an online weightlifting club that offers many services such as workout advice, routines, tutorials and online personal training sessions to assist people who are motivated and interested to begin lifting weights or exercising to improve their lifestyle. Due to the nature of the global COVID-19 pandemic, the site is targeted at an audience who prefer to exercise remotely at home with the gym equipment provided to reduce the risk of being infected and to feel safer.  
 
 ![Responsive Screenshot Markup](/documentation/screenshots/ss-responsive-home-one.jpg)
 
@@ -30,7 +30,7 @@ When choosing the color scheme for the website, I wanted to make sure it gave an
 There were two fonts that were used throughout the website:
  - Roboto
  - Bree Serif
-Sans-serif is also listed in the CSS file as a backup to the primary fonts used. These choice of fonts were used as they complement each other very well as noted in Google Fonts.
+Sans-serif is also listed in the CSS file as a backup to the primary fonts used. These choices of fonts were used as they complement each other very well as noted in Google Fonts.
 
 ## Features
 
@@ -46,7 +46,7 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
 
 - Footer
 
-  - The footer section is located at the bottom of each web page and supplies useful contact information. It includes the relevant social media links in the format of their respective logos,that Bulk Empire is present on. 
+  - The footer section is located at the bottom of each web page and supplies useful contact information. It includes the relevant social media links in the format of their respective logos, that Bulk Empire is present on. 
   - These links are helpful to keep the user engaged in learning and reading more information about Bulk Empire and is also beneficial to the company by increasing social media following and recognition globally.
   - The background color of the footer is a darker variant of grey that offers visual contrast to the background color of the main section which is a lighter grey. Like the links in the header, the footer links can also be hovered over to display the same orange color.
 
@@ -56,7 +56,7 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
 - About Bulk Empire Section
 
   - The home page provides background information about Bulk Empire and a summary of the services that are offered to the user. This section is the first point of visual contact for the user so it is important that the benefits and values of joining Bulk Empire is included. The about us section will also allow the user to understand the reasoning behind the initiation of Bulk Empire due to the COVID-19 pandemic.
-  - Below the background information of the company, a button is also displayed which takes the user to the sign up form to enter a giveaway provided by Bulk Empire.
+  - Below the background information of the company, a button is also displayed which takes the user to the sign-up form to enter a giveaway provided by Bulk Empire.
   - The home page also includes two images of individuals who are weightlifting as a visual indicator to motivate the user to initiate a change in their lifestyle.
 
 ![Home Page](/documentation/screenshots/bulk-empire-home.jpg)
@@ -65,7 +65,7 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
 
 ![Home Page-Laptop View](/documentation/screenshots/laptop-home-page.jpg)
 
-  - When viewing the home page on mobile and tablets, only one of the two images is displayed. The choice of image was due to the high visual motivation it promotes to the user. The text and sign up button is pushed down below the image for easy readability.
+  - When viewing the home page on mobile and tablets, only one of the two images is displayed. The choice of image was due to the high visual motivation it promotes to the user. The text and sign-up button is pushed down below the image for easy readability.
 
 ![Home Page-Mobile View](/documentation/screenshots/mobile-home-page.jpg)
 
@@ -73,7 +73,7 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
 - Home Workouts Section
 
   - The workouts page provides the user one of many weekly workout routines they can engage in using gym equipment provided by Bulk Empire.
-  - The details of each daily workout is structured around a center image of an individual exercising at home. This structure allows the user to follow the workout without any confusion and the image is present to motivate the user to exercise at home.
+  - The details of each daily workout are structured around a center image of an individual exercising at home. This structure allows the user to follow the workout without any confusion and the image is present to motivate the user to exercise at home.
 
 ![Workouts Page](/documentation/screenshots/bulk-empire-workouts.jpg)
 
@@ -85,7 +85,7 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
 - Membership Plans Section
 
   - The memberships page provides details of all Bulk Empire membership plans from silver to platinum and all the benefits that are included in each one. The price is also indicated below each plan.
-  - Below the membership plans, the various gym equipment provided with each plan is also listed. This is beneficial to the user and the organisation as they do not have to purchase seperate equipment from another company/retailer.
+  - Below the membership plans, the various gym equipment provided with each plan is also listed. This is beneficial to the user and the organisation as they do not have to purchase separate equipment from another company/retailer.
 
 ![Memberships Page](/documentation/screenshots/bulk-empire-memberships.jpg)
 
@@ -98,19 +98,19 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
 ### Sign Up Page
 - Giveaway Form
 
-  - The giveaway/sign up form allows the user to enter a competition held by Bulk Empire to win a free personal training session. The user is required to fill in each input field using their contact details such as first name, last name and email address. As well as this, the user will also be able to specify why they should win the giveaway and choose their favourite workout i they have one. 
-  - A background image of two individuals engaged in a personal training session is displayed behind the sign up form. This is a visual indicator to the user that Bulk Empire is determined to help its clients with reaching their fitness goals and achievements. 
+  - The giveaway/sign up form allows the user to enter a competition held by Bulk Empire to win a free personal training session. The user is required to fill in each input field using their contact details such as first name, last name and email address. As well as this, the user will also be able to specify why they should win the giveaway and choose their favourite workout if they have one. 
+  - A background image of two individuals engaged in a personal training session is displayed behind the sign-up form. This is a visual indicator to the user that Bulk Empire is determined to help its clients with reaching their fitness goals and achievements. 
 
 ![Sign Up Page](/documentation/screenshots/bulk-empire-signup.jpg)
 
-  - When viewing the sign up page on smaller screens, the width of the form and its content is decreased to fit the available space on the screen.
+  - When viewing the sign-up page on smaller screens, the width of the form and its content is decreased to fit the available space on the screen.
 
 ![Sign Up Page-Smaller Screens](/documentation/screenshots/signup-mobile-tablet.jpg)
 
 ### Hidden Pages
 - Sign Up Confirmation Page
 
-  - One page that does not appear on navigation bar is the sign up confirmation page that users can access once they have entered the giveaway by completing the form.
+  - One page that does not appear on navigation bar is the sign up-confirmation page that users can access once they have entered the giveaway by completing the form.
   - A thank you for participating message is displayed on the screen. This indicates confirmation to the user that they have successfully entered the giveaway, whilst also providing information on future contests and the quality of rewards the user can potentially acquire.
   - A background image of a client and a trainee exercising together is present to display to the user the morals and goals of Bulk Empire. This is a common design element used across the website.
 
@@ -132,23 +132,23 @@ After developing the initial layout of the website for desktop/larger screens, t
 
 - Desktop Computer: 1920 x 1080p
 - HP EliteBook 840 G4: 1366 x 768p
-- IPad Pro: 1024 x 1366p
-- IPhone 5/SE: 320 x 568p
+- iPad Pro: 1024 x 1366p
+- iPhone 5/SE: 320 x 568p
 
 The website was also tested on devices using other browsers:
 
-- IPhone 11 Pro Max: 414 x 896p
+- iPhone 11 Pro Max: 414 x 896p
   - iOS Safari
 - Desktop Computer: 1920 x 1080p
   - Microsoft Edge
-- IPad Air: 820 x 1180p
+- iPad Air: 820 x 1180p
   - Mozilla Firefox
 - Laptop: 1280 x 800p
   - Mozilla Firefox
 
 ### Bugs 
 - Fixed Bugs
-  - When creating the sign up button on the home page, there was a small issue with its interactivity. This was due to the button not being in its own parent element. To fix this, I placed the button inside a parent div element to position it below the company background text. 
+  - When creating the sign-up button on the home page, there was a small issue with its interactivity. This was due to the button not being in its own parent element. To fix this, I placed the button inside a parent div element to position it below the company background text. 
   - After I was designing my first wireframes on Balsamiq, it was uploaded onto GitHub. However, the wireframes were not displaying properly so I had to rename the wireframes and uploaded my second wireframes file.
     - [First Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes.pdf) 
     - [Second Wireframes File](https://github.com/legenduzair/bulk-empire-MS1/blob/main/documentation/wireframes/bulkempire-wireframes-1.pdf)
@@ -164,7 +164,7 @@ The website was also tested on devices using other browsers:
      - [Form Submit Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2Fformsubmit.html)
   
 - CSS
-   - No errors were displayed when running the CSS code through the offical (Jigsaw) validator.
+   - No errors were displayed when running the CSS code through the official (Jigsaw) validator.
      - [CSS Code Check](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flegenduzair.github.io%2Fbulk-empire-MS1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 - Lighthouse 
@@ -192,7 +192,7 @@ The live link can be found here - [Bulk Empire](https://legenduzair.github.io/bu
 - The materials found on [w3Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/) were used when inputting and editing HTML and CSS to my code to help me overcome any minor bugs and issues.
 - The text for all of the pages on the site was created by myself. 
 - The two materials used to learn and implement CSS flexbox and grid were the [Flexbox Website](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and a series of YouTube tutorials created by [Kevin Powell](https://www.youtube.com/watch?v=hwbqquXww-U).
-- The icons used on the workouts and sign up pages were taken from [Font Awesome](https://fontawesome.com/).
+- The icons used on the workouts and sign-up pages were taken from [Font Awesome](https://fontawesome.com/).
 - The fonts used in the implementation of the website were taken from [Google Fonts](https://fonts.google.com/).
 - HTML and CSS were the languages used to write the code used to design the website.
 
@@ -203,5 +203,5 @@ The live link can be found here - [Bulk Empire](https://legenduzair.github.io/bu
 This project was completed due to the support of many individuals:
 - [Matt Boden](https://github.com/MattBCoding)
 - [Richard Wells](https://github.com/D0nni387)
-- The code insitute Slack community
+- The code institute Slack community
 
