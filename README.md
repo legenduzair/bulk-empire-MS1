@@ -61,6 +61,14 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
 
 ![Home Page](/documentation/screenshots/bulk-empire-home.jpg)
 
+  - When viewing the home page on laptops, the content is structured in a way where the images overlap slightly to fit the content on the screen without altering the layout majorly.
+
+![Home Page-Laptop View](/documentation/screenshots/laptop-home-page.jpg)
+
+  - When viewing the home page on mobile and tablets, only one of the two images is displayed. The choice of image was due to the high visual motivation it promotes to the user. The text and sign up button is pushed down below the image for easy readability.
+
+![Home Page-Mobile View](/documentation/screenshots/mobile-home-page.jpg)
+
 ### Workouts Page
 - Home Workouts Section
 
@@ -68,6 +76,10 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
   - The details of each daily workout is structured around a center image of an individual exercising at home. This structure allows the user to follow the workout without any confusion and the image is present to motivate the user to exercise at home.
 
 ![Workouts Page](/documentation/screenshots/bulk-empire-workouts.jpg)
+
+  - When viewing the workouts page on smaller/medium screen sizes, the image is placed in the center of the page and the text is adjusted to be structured at the top and bottom of the image, vertically aligned.
+
+![Workouts Page-Small/Medium Screen Size](/documentation/screenshots/mobile-tablet-workouts.jpg)
 
 ### Memberships Page
 - Membership Plans Section
@@ -77,6 +89,12 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
 
 ![Memberships Page](/documentation/screenshots/bulk-empire-memberships.jpg)
 
+  - When viewing the membership page on screen sizes smaller than desktop, the membership plans are structured to be pushed down to adjust to the space available on the page.
+
+![Memberships Page-Medium Screens](/documentation/screenshots/laptop-memberships.jpg)
+
+![Memberships Page-Small Screens](/documentation/screenshots/mobile-memberships.jpg)
+
 ### Sign Up Page
 - Giveaway Form
 
@@ -84,6 +102,10 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
   - A background image of two individuals engaged in a personal training session is displayed behind the sign up form. This is a visual indicator to the user that Bulk Empire is determined to help its clients with reaching their fitness goals and achievements. 
 
 ![Sign Up Page](/documentation/screenshots/bulk-empire-signup.jpg)
+
+  - When viewing the sign up page on smaller screens, the width of the form and its content is decreased to fit the available space on the screen.
+
+![Sign Up Page-Smaller Screens](/documentation/screenshots/signup-mobile-tablet.jpg)
 
 ### Hidden Pages
 - Sign Up Confirmation Page
@@ -93,6 +115,10 @@ Sans-serif is also listed in the CSS file as a backup to the primary fonts used.
   - A background image of a client and a trainee exercising together is present to display to the user the morals and goals of Bulk Empire. This is a common design element used across the website.
 
 ![Form Submit Page](/documentation/screenshots/bulk-empire-formsubmit.jpg) 
+
+  - When viewing the form submit page on smaller screens, the text content is compressed to fit on the screen whilst still being readable.
+
+![Form Submit-Smaller Screens](/documentation/screenshots/mobile-tablet-formsubmit.jpg)
 
 ## Future Improvements
 - Media Elements
