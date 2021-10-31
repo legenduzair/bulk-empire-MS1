@@ -199,3 +199,9 @@ The live link can be found here - [Bulk Empire](https://legenduzair.github.io/bu
 ### Media
 - All images used on the website were taken from [Pexels](https://www.pexels.com/) and [Tiny PNG](https://tinypng.com/) was used to compress and optimise the images.
 
+### Honorable Mentions
+This project was completed due to the support of many individuals:
+- [Matt Boden](https://github.com/MattBCoding)
+- [Richard Wells](https://github.com/D0nni387)
+- The code insitute Slack community
+
